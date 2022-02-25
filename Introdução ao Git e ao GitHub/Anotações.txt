@@ -14,3 +14,13 @@
 - Deletar pastas/arquivos: "del/rmdir"
 * Atalho para comandos: "seta para cima"
 
+Comandos usados para criar repositório
+
+- git add .
+- git status (para conferir)
+- git commit -m “”
+- git push origin main
+
+
+
+
