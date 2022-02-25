@@ -1,5 +1,16 @@
+   Importancia do Git
+   
 1 - Controle de Versão
 2 - Armazenamento em nuvem
 3 - Trabalho em equipe
 4 - Melhorar seu código
-5 - Reconhecimento
+5 - Reconhecido
+
+  Comandos
+  
+- Mudar de pastas: "cd"
+- Listar as pastas: "dir"
+- Criar pastas/arquivos: "mkdir
+- Deletar pastas/arquivos: "del/rmdir"
+* Atalho para comandos: "seta para cima"
+
